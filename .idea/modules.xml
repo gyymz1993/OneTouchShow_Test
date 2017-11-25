@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APP.V1.iml" filepath="$PROJECT_DIR$/APP.V1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keybroadpanelswitchlib/keybroadpanelswitchlib.iml" filepath="$PROJECT_DIR$/keybroadpanelswitchlib/keybroadpanelswitchlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginlibrary/loginlibrary.iml" filepath="$PROJECT_DIR$/loginlibrary/loginlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvplibrary/mvplibrary.iml" filepath="$PROJECT_DIR$/mvplibrary/mvplibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netlibrary/netlibrary.iml" filepath="$PROJECT_DIR$/netlibrary/netlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshlibrary/refreshlibrary.iml" filepath="$PROJECT_DIR$/refreshlibrary/refreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uilibrary/uilibrary.iml" filepath="$PROJECT_DIR$/uilibrary/uilibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videolibrary/videolibrary.iml" filepath="$PROJECT_DIR$/videolibrary/videolibrary.iml" />
+    </modules>
+  </component>
+</project>
